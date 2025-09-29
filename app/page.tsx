@@ -336,11 +336,7 @@ export default function Home() {
                     sequence={[
                       "Maksym Sysoiev",
                       2000,
-                      "Frontend Engineer",
-                      2000,
-                      "Backend Engineer",
-                      2000,
-                      "Animation Talent",
+                      "Full Stack Developer",
                       2000,
                     ]}
                     wrapper="span"
